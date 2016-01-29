@@ -66,4 +66,4 @@ Also review the objectives to make sure that you’re not including too much int
 
 
 
-<a href='https://learn.co/lessons/learning-objectives' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/learning-objectives' title='Once you've broken down you unit into lessons, you'll list the objectives of your lesson. The objectives should connect to and build from the action items/skills/knowledge that you listed for each of your lessons. '>Once you've broken down you unit into lessons, you'll list the objectives of your lesson. The objectives should connect to and build from the action items/skills/knowledge that you listed for each of your lessons. </a> on Learn.co and start learning to code for free.</p>
